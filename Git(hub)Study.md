@@ -52,7 +52,7 @@ git clone [URL]# 将远程仓库clone到本地
 git rebase main #将当前项目的基地变更到main
 ```
 
-![image-20261023194725164](C:\Users\21323\AppData\Roaming\Typora\typora-user-images\image-20261023194725164.png)
+![image-20261023194725164](https://cdn.jsdelivr.net/gh/SFCFBR/Iamges@main/image-20261023194725164.png)
 
 Branch: 可以进行功能开发而不影响主进程, 在开发完成后可以merge进入main分支, 若merge时遇到冲突的修改会询问用户抉择(或Agent)
 
